@@ -1,0 +1,32 @@
+---
+title: "Calendar"
+description: "Stay synchronized with your calendar"
+layout: post
+date: 2016-02-27 17:27
+tag:
+- nodejs
+- javascript
+- reactjs
+- expressjs
+- api
+- MongoDB
+- GoogleCalendar
+projects: true
+tag:
+- project
+- javascript
+- reactjs
+---
+
+## Summary:
+
+Stay always synchronized with your personal calendar
+
+### Technologies
+- Nodejs
+- Reactjs
+- Javascript
+- MongoDB
+
+### Demo
+Demo: [Web](#)

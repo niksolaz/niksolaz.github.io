@@ -1,0 +1,32 @@
+---
+title: "Comikube"
+description: "The social network for comic artists"
+layout: post
+date: 2016-02-27 17:27
+tag:
+- nodejs
+- javascript
+- reactjs
+- expressjs
+- api
+- MongoDB
+projects: true
+tag:
+- project
+- javascript
+- reactjs
+---
+
+## Summary:
+
+Comikube is a social network for comic artists
+
+### Technologies
+- Nodejs
+- Reactjs
+- Python
+- Javascript
+- MongoDB
+
+### Demo
+Demo: [Web](#)
