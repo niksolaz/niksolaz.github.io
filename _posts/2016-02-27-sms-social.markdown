@@ -2,7 +2,7 @@
 title: "SMS Social"
 description: "Write your message once and send it everywhere!"
 layout: post
-date: 2016-02-27 17:27
+date: 2016-02-27 17:29
 tag:
 - nodejs
 - javascript

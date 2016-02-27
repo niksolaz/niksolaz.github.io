@@ -2,7 +2,7 @@
 title: "Calendar"
 description: "Stay synchronized with your calendar"
 layout: post
-date: 2016-02-27 17:27
+date: 2016-02-27 17:28
 tag:
 - nodejs
 - javascript
@@ -10,7 +10,7 @@ tag:
 - expressjs
 - api
 - MongoDB
-- GoogleCalendar
+- Google
 projects: true
 tag:
 - project
