@@ -22,6 +22,7 @@ I have been working with web technologies since 2 years and I really enjoy worki
 	<li>Grunt - Gulp - Yeoman</li>
 	<li>Git</li>
 	<li>Python</li>
+	<li>Django</li>
 	<li>MySQL - MongoDB</li>
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
