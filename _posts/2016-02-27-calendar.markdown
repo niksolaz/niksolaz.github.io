@@ -10,7 +10,6 @@ tag:
 - expressjs
 - api
 - MongoDB
-- Google
 projects: true
 tag:
 - project

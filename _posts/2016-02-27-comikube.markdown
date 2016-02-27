@@ -15,7 +15,6 @@ tag:
 - project
 - javascript
 - reactjs
-- python
 ---
 
 ## Summary:
