@@ -1,9 +1,0 @@
-@import 'basscss';
-
-:root {
-  --font-family: 'Avenir Next', 'Hevletica Neue', sans-serif;
-}
-
-.col-12 {
-  width: 100%;
-}
