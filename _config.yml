@@ -1,13 +1,14 @@
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Nicola Solazzo
+bio: 'Fullstack developer with superpowers'
 
 # main text of home
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://niksolaz.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
+
 
 markdown: kramdown
 highlighter: rouge
@@ -17,7 +18,7 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: niksolaz
 instagram: myinstagram
 linkedin: mylinkedin
 youtube: myyoutube
