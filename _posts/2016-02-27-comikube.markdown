@@ -22,6 +22,7 @@ tag:
 
 Comikube is a social network for comic artists
 
+
 ### Technologies
 - Nodejs
 - Reactjs
