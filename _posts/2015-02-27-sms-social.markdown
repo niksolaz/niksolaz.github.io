@@ -10,7 +10,11 @@ tag:
 - expressjs
 - api
 - MongoDB
-project: true
+projects: true
+tag:
+- project
+- javascript
+- reactjs
 ---
 
 ## Summary:
