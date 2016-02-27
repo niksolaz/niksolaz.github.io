@@ -1,19 +1,31 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    {% include head.html %}
-    <body>
-        {% include svg-icons.html %}
-        {% include header-post.html %}
-        <section class="post" itemscope itemtype="http://schema.org/BlogPosting">
+---
+layout: default
+---
+{% include header.html %}
 
-            <article role="article" id="scroll" class="post-content" itemprop="articleBody">
-                {{ content }}
-            </article>
+<h1 class="title">{{ page.title }}</h1>
 
-            {% include share.html %}
-            {% include author.html %}
-            {% include comments.html %}
-            {% include footer.html %}
-        </section>
-    </body>
-</html>
+<span class="date">
+    <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
+    {% if site.read-time %} - {% include read-time.html %}{% endif %}
+</span>
+
+{% if site.show-tags %}
+    <div class="tags">
+        {% for tag in page.tags %}
+            <span class="item">{{ tag }}</span>
+        {% endfor %}
+    </div>
+{% endif %}
+
+{{content}}
+
+{% if site.related %}
+    {% include related.html %}
+{% endif %}
+
+{% include author.html %}
+
+{% include disqus.html %}
+
+{% include footer.html %}
