@@ -18,7 +18,8 @@ I have been working with web technologies since 2 years and I really enjoy worki
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Javascript (Design Patterns, Testes)</li>
 	<li>NodeJS</li>
-	<li>AReactJS</li>
+	<li>ReactJS</li>
+	<li>Php</li>
 	<li>Grunt - Gulp - Yeoman</li>
 	<li>Git</li>
 	<li>Python</li>
