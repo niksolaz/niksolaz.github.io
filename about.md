@@ -33,6 +33,6 @@ I have been working with web technologies since 2 years and I really enjoy worki
 
 <ul>
 	<li><a href="https://github.com/">SMS Social</a></li>
-	<li><a href="https://github.com/">AskMe</a></li>
+	<li><a href="https://github.com/AskMe">AskMe</a></li>
 	<li><a href="https://github.com/">Comikube</a></li>
 </ul>
