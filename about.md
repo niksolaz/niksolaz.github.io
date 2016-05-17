@@ -12,27 +12,27 @@ I have been working with web technologies since 2 years and I really enjoy worki
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>HTML - CSS - JavaScript</li>
+	<li>Responsive Design</li>
+	<li>CSS (Sass, Less)</li>
+	<li>Css Frameworks (Bootstrap)</li>
 	<li>NodeJS</li>
 	<li>ReactJS</li>
 	<li>Php</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Webpack</li>
 	<li>Git</li>
 	<li>Python</li>
 	<li>Django</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
+	<li>Scrum</li>
 	<li>TDD e Continuous Integration</li>
+	<li>Just started with Swift and React Native</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
 	<li><a href="https://github.com/">SMS Social</a></li>
-	<li><a href="https://github.com/">My Calendar</a></li>
+	<li><a href="https://github.com/">AskMe</a></li>
 	<li><a href="https://github.com/">Comikube</a></li>
 </ul>
